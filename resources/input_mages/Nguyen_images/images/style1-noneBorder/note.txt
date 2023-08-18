@@ -1,0 +1,1 @@
+Ảnh đầu vào có chiều cao lớn -> without decimal

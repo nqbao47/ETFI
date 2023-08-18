@@ -18,6 +18,7 @@ class CaptureWindow(QtWidgets.QWidget):
         #self.capture_label.setStyleSheet('border: 1px solid black')
         self.capture_label.setFixedSize(700, 700)   
     
+    
         # Create a button for capturing the image
         capture_button = QPushButton('Capture', self)
         capture_button.setFixedSize(100, 30)

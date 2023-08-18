@@ -1,0 +1,18 @@
+Tên: Nguyễn Quốc Bảo.
+Lớp: 11A3
+
+Điểm trung bình và xếp loại các môn
+Môn học HK1 HK2 Cả năm
+Toán 81 8.2 8.2
+Vật lý 9.0 9.0 9.0
+Hóa học 6.0 6.0 6.0
+Tin học 7.0 8.5 8.0
+Ngữ văn 4.0 7.0 6.0
+Lịch sử 9.0 9.0 9.0
+Địa lí 7.0 7.0 7.0
+Tiếng Anh 5.0 8.0 7.0
+GDCD 8.0 10.0 9.3
+Công nghệ 9.0 10.0 9.7
+Thể dục Đạt Đạt Đạt
+GDOP AN 8.0 10.0 9.3
+ĐTB các môn 7.3 8.4 8.0

@@ -1,0 +1,20 @@
+Tên: Nguyễn Tuấn Khanh
+Lớp: 11A3
+
+Điểm trung bình và xếp loại các môn
+
+Môn học HK1 HK2 Cả năm
+
+Toán 8.0 6.0 6.7
+Vật lý 9.0 6.0 7.0
+Hóa học 6.0 9.0 8.0
+Tin học 9.0 8.0 8.3
+Ngữ văn 8.0 50 6.0
+Lịch sử 6.0 7.0 6.7
+Địa lí 9.0 6.0 7.0
+Tiếng Anh 50 6.0 5.7
+GDCD 9.0 10.0 9.7
+Công nghệ 7.0 9.0 8.3
+Thể dục Đạt Đạt Đạt
+GDQP AN 9.0 9.0 9.0
+ĐTB các môn 7.8 7.4 7.5

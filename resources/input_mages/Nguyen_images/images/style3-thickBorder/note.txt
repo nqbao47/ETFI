@@ -1,0 +1,1 @@
+Nếu xóa khoảng trắng đầu mỗi dòng môn học -> chữ T + L sẽ không nhận dạng được
